@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+.container{
+    background-image: url(images/new.jpg);
+    background-size: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+.mainpage{
+    padding-top: 22vh;
+    text-align: center;
+}
+
+.mainpage h1 {
+  font-family: "Sedan", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 100px;
+  font-display: 100vw;
+}
+
+.mainpage h2 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  font-style: normal;
+}
+
+.secondpage h2,
+.secondpage h1 {
+  font-family: "Sedan", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.secondpage p{
+  font-family: "Sedan", serif;
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.btn-home{
+    transition-duration: 0.4s;
+    background-color: #04aa6d;
+    color: white;
+    border: solid #04aa6d;
+    padding: 1vh 17px;
+    border-radius: 25px;
+  }
+  
+.btn-home:hover {
+    background-color: white;
+    color: #04aa6d;
+  }
+
+.secondpage{
+  padding-left: 6vw;
+  padding-right: 6vw;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  align-items: flex-end;
+  height: 100%;
+  padding: 0 4vw;
+}
+
+.right-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  align-items: flex-end;
+  height: 100%;
+  padding: 0 5vw;
+  margin-left: 2vw;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  align-items: flex-end;
+  height: 100%;
+  padding: 0 5vw;
+}
+
+.right h1{
+  padding-right: 10vw;
+}
+
+.right h2 {
+  padding-right: 10vw;
+}
+
+.btn-right {
+  transition-duration: 0.4s;
+  background-color: #04aa6d;
+  color: black;
+  border: solid #04aa6d;
+  padding: 1vh 17px;
+  border-radius: 25px;
+  margin-right: 22.8vw;
+}
+
+.btn-right:hover {
+  background-color: white;
+  color: #04aa6d;
+}
+
+.btn-right2 {
+  transition-duration: 0.4s;
+  background-color: #04aa6d;
+  color: black;
+  border: solid #04aa6d;
+  padding: 1vh 17px;
+  border-radius: 25px;
+  margin-right: 27.2vw;
+}
+
+.btn-right2:hover {
+  background-color: white;
+  color: #04aa6d;
+}
+
+.smallheader{
+  text-align: center;
+  text-overflow: clip;
+}
+
+.lastpage{
+  background-image: url(images/ExpressVPN-server-locations-page.png);
+    background-size: 86vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+
