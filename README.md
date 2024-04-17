@@ -25,4 +25,4 @@ For an extra challenge, you can extend the temperature converter project to incl
 To get started with any of the projects, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/oasis-infobyte/web-development-projects.git
+git clone https://github.com/
