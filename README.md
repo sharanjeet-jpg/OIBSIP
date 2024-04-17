@@ -18,7 +18,7 @@ Develop a temperature converter application using HTML, CSS, and JavaScript. Use
 
 ## Additional Challenges
 
-For an extra challenge, you can extend the temperature converter project to include conversion to and from Kelvin as well.
+For an extra challenge, you can extend the temperature converter project to include more CSS to it and make the landing page responsive also.
 
 ## Getting Started
 
